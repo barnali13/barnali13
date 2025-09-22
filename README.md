@@ -6,26 +6,57 @@
 
 # 💫 About Me:
 
-🌱 I'm currently learning:
+🎓 I’m currently working on
 
-> "Advanced machine learning and deep learning techniques, focusing on model optimization and deployment strategies."
+🧠 Building ML models for healthcare predictions (stroke, CKD, etc.).
 
-🛠 I'm currently working on:
+📊 Creating Data Science & AI projects to strengthen my portfolio.
 
-> "A deep learning–based Tuberculosis (TB) detection system leveraging CNNs for medical image classification, along with other end-to-end ML projects."
-
-🤝 I'm looking to collaborate on:
-
-> "Innovative AI/ML initiatives, research-driven projects, and impactful data-driven applications."
+🌐 Developing full-stack web apps with ML model integration.
 
 
-📚 Ask me about:
+🤝 I’m looking to collaborate on
 
-> "Building robust machine learning pipelines, handling complex datasets, and deploying models using Python-based frameworks."
+🏆 Open-source Machine Learning / Deep Learning projects.
 
-🎯 Fun fact:
+🐍 Python-based automation & data cleaning projects.
 
-> "I enjoy transforming raw data into meaningful, actionable insights that can make a real-world impact."
+🌟 Web apps using Streamlit / Flask for ML deployment.
+
+
+🙌 I’m looking for help with
+
+🚀 Deploying ML & DL models on Streamlit / FastAPI / Docker.
+
+📚 Exploring advanced Deep Learning concepts like Transformers & GANs.
+
+🛠 Learning MLOps best practices for production-level model deployment.
+
+
+🏆 I’m currently learning
+
+🧠 Machine Learning & Deep Learning (CNNs, RNNs, Transformers).
+
+📊 Data Visualization with Seaborn / Matplotlib / PowerBI.
+
+⚙️ Web frameworks like Flask, Streamlit, and FastAPI.
+
+
+💬 Ask me about
+
+🐍 Python, Pandas, NumPy – and how to use them in real projects.
+
+🎯 How to start with Kaggle datasets and build your first ML model.
+
+🔰 Beginner-friendly tips to kickstart your journey in Data Science & AI.
+
+🌐 Turning ML models into interactive web apps with Streamlit.
+
+
+
+
+
+
 
 ---
 
