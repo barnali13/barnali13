@@ -6,9 +6,9 @@
 
 # 💫 About Me:
 
-🎓 I’m currently working on
+🎓 I’m currently working on :
 
-  🧠 Building Machine Learning models for healthcare predictions such as Liver Detection and Anemia, focusing on data preprocessing, model training, and evaluation.
+  . 🧠 Building Machine Learning models for healthcare predictions such as Liver Detection and Anemia, focusing on data preprocessing, model training, and evaluation.
 
   📊 Creating Data Science & AI projects that cover data cleaning to deployment, strengthening my portfolio and problem-solving skills.
 
