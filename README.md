@@ -8,45 +8,45 @@
 
 🎓 I’m currently working on
 
-    🧠 Building Machine Learning models for healthcare predictions such as Liver Detection and Anemia, focusing on data preprocessing, model training, and evaluation.
+  🧠 Building Machine Learning models for healthcare predictions such as Liver Detection and Anemia, focusing on data preprocessing, model training, and evaluation.
 
-    📊 Creating Data Science & AI projects that cover data cleaning to deployment, strengthening my portfolio and problem-solving skills.
+  📊 Creating Data Science & AI projects that cover data cleaning to deployment, strengthening my portfolio and problem-solving skills.
 
-    🌐 Developing full-stack web applications with ML integration to make intelligent solutions accessible and interactive.
+  🌐 Developing full-stack web applications with ML integration to make intelligent solutions accessible and interactive.
 
 🤝 I’m looking to collaborate on
 
-    🏆 Open-source ML/DL projects where I can contribute code, models, or research and learn from others.
+  🏆 Open-source ML/DL projects where I can contribute code, models, or research and learn from others.
 
-    🐍 Python automation & data cleaning projects that simplify tasks and improve workflow efficiency.
+  🐍 Python automation & data cleaning projects that simplify tasks and improve workflow efficiency.
 
-    🌟 Web applications using Streamlit / Flask to deploy ML models in a simple, interactive way.
+  🌟 Web applications using Streamlit / Flask to deploy ML models in a simple, interactive way.
 
 🙌 I’m looking for help with
 
-    🚀 Deploying ML & DL models using Streamlit, FastAPI, and Docker for production-ready applications.
+  🚀 Deploying ML & DL models using Streamlit, FastAPI, and Docker for production-ready applications.
 
-    📚 Exploring advanced Deep Learning concepts like Transformers and GANs for cutting-edge AI projects.
+ 📚 Exploring advanced Deep Learning concepts like Transformers and GANs for cutting-edge AI projects.
 
-    🛠 Learning MLOps best practices to manage pipelines, version control, and monitoring.
+  🛠 Learning MLOps best practices to manage pipelines, version control, and monitoring.
 
 🏆 I’m currently learning
 
-    🧠 Machine Learning & Deep Learning (CNNs, RNNs, Transformers) to strengthen my AI foundation.
+  🧠 Machine Learning & Deep Learning (CNNs, RNNs, Transformers) to strengthen my AI foundation.
 
-    📊 Data Visualization tools like Seaborn, Matplotlib, and PowerBI for meaningful insights.
+  📊 Data Visualization tools like Seaborn, Matplotlib, and PowerBI for meaningful insights.
 
-    ⚙️ Web frameworks such as Flask, Streamlit, and FastAPI to integrate ML models into apps.
+  ⚙️ Web frameworks such as Flask, Streamlit, and FastAPI to integrate ML models into apps.
 
 💬 Ask me about
 
-    🐍 Using Python, Pandas, and NumPy for real-world data projects and pipelines.
+  🐍 Using Python, Pandas, and NumPy for real-world data projects and pipelines.
 
-    🎯 How to start with Kaggle datasets and build your first ML model step by step.
+  🎯 How to start with Kaggle datasets and build your first ML model step by step.
 
-    🔰 Beginner-friendly tips for Data Science & AI, including resources and project ideas.
+  🔰 Beginner-friendly tips for Data Science & AI, including resources and project ideas.
 
-    🌐 Turning ML models into interactive web apps with Streamlit for easy access.
+  🌐 Turning ML models into interactive web apps with Streamlit for easy access.
 
 ---
 
