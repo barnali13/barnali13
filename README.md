@@ -8,13 +8,13 @@
 
 🎓 I’m currently working on :
 
-  . 🧠 Building Machine Learning models for healthcare predictions such as Liver Detection and Anemia, focusing on data preprocessing, model training, and evaluation.
+  🧠 Building Machine Learning models for healthcare predictions such as Liver Detection and Anemia, focusing on data preprocessing, model training, and evaluation.
 
   📊 Creating Data Science & AI projects that cover data cleaning to deployment, strengthening my portfolio and problem-solving skills.
 
   🌐 Developing full-stack web applications with ML integration to make intelligent solutions accessible and interactive.
 
-🤝 I’m looking to collaborate on
+🤝 I’m looking to collaborate on :
 
   🏆 Open-source ML/DL projects where I can contribute code, models, or research and learn from others.
 
@@ -22,7 +22,7 @@
 
   🌟 Web applications using Streamlit / Flask to deploy ML models in a simple, interactive way.
 
-🙌 I’m looking for help with
+🙌 I’m looking for help with :
 
   🚀 Deploying ML & DL models using Streamlit, FastAPI, and Docker for production-ready applications.
 
@@ -30,7 +30,7 @@
 
   🛠 Learning MLOps best practices to manage pipelines, version control, and monitoring.
 
-🏆 I’m currently learning
+🏆 I’m currently learning :
 
   🧠 Machine Learning & Deep Learning (CNNs, RNNs, Transformers) to strengthen my AI foundation.
 
@@ -38,7 +38,7 @@
 
   ⚙️ Web frameworks such as Flask, Streamlit, and FastAPI to integrate ML models into apps.
 
-💬 Ask me about
+💬 Ask me about :
 
   🐍 Using Python, Pandas, and NumPy for real-world data projects and pipelines.
 
